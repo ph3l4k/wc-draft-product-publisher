@@ -1,0 +1,18 @@
+#wcdpp-result {
+    padding: 10px;
+    border-radius: 4px;
+    display: none;
+}
+
+#wcdpp-result.success {
+    background-color: #dff0d8;
+    border: 1px solid #d6e9c6;
+    color: #3c763d;
+}
+
+#wcdpp-result.error {
+    background-color: #f2dede;
+    border: 1px solid #ebccd1;
+    color: #a94442;
+}
+
